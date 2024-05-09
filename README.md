@@ -6,3 +6,5 @@ An example of English text tone detection with [Hugging Face](https://huggingfac
 
 
 Tests GitHub Actions
+
+Метод для API - answer. В API передается 2 параметра: search_topic - текст, question - вопрос по тексту.  API возвращает ответ на вопрос.
